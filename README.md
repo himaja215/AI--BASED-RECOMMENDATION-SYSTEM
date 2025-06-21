@@ -20,3 +20,10 @@ With the neighborhood defined, the program creates a recommender using the Gener
 
 Finally, the program prints out the recommended item IDs along with their corresponding recommendation scores, which reflect the strength of the recommendation. Any errors during this process, such as issues with reading the file or data formatting problems, are caught and printed to the console. This program demonstrates a simple but effective approach to building a recommendation system using collaborative filtering.
 
+*OUTPUT* : 
+
+Recommendations for User 3:
+Item: 102 | Score: 4.116
+Item: 103 | Score: 3.321
+Item: 105 | Score: 3.104
+
