@@ -23,7 +23,11 @@ Finally, the program prints out the recommended item IDs along with their corres
 *OUTPUT* : 
 
 Recommendations for User 3:
+
 Item: 102 | Score: 4.116
+
 Item: 103 | Score: 3.321
+
 Item: 105 | Score: 3.104
+
 
